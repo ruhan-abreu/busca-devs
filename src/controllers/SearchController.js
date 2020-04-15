@@ -7,7 +7,7 @@ module.exports = {
 
     const techsArray = parseStringAsArray(techs);
 
-    Console.log(techsArray);
+    console.log(techsArray);
 
        //buscar todo devs num raio 10km
         // filtrar por tecnologias
